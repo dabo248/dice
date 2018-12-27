@@ -7,7 +7,7 @@ use std::sync::{Arc, Barrier};
 use std::thread;
 
 fn main() {
-    println!("How many dices do you want to throw?");
+    println!("How many dice do you want to throw?");
 
     let mut dice_count = String::new();
 
