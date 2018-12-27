@@ -1,7 +1,7 @@
 # dice
 A simple multithreaded dice simulator written in Rust.
 
-## Getting started
+## Usage
 
 ```
 # Clone this repo
